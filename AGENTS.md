@@ -2,19 +2,12 @@
 
 ## Context
 
-Core is Cohesian's constitutional repository. It defines Cohesian's principles,
-public identity, canonical brand primitives, and public identity policy without
-owning operations, knowledge production, media production, or software tools.
+Core is Cohesian's topology-agnostic constitutional repository. It defines the
+canonical principles, public identity, accepted brand primitives, and public
+identity policy.
 
-```text
-Core ──principles──▶ Foundations / Studio / Site
-Core ──identity────▶ Studio / Site / loci-plugins/cohesian
-Studio ──proposals─▶ Core
-```
-
-Core is a semantic dependency, not a runtime dependency. Organization manages
-accounts and infrastructure; body repositories produce Cohesian's work;
-tooling repositories remain independently usable.
+Core does not describe the repositories, tools, or operational systems that
+consume it. Those relationships belong to an upper organizational view.
 
 ## Repository index
 
@@ -25,15 +18,9 @@ tooling repositories remain independently usable.
 | Canonical identity assets | [`assets/brand/`](assets/brand/) |
 | License boundaries | [`LICENSING.md`](LICENSING.md) |
 | Name and brand usage | [`TRADEMARKS.md`](TRADEMARKS.md) |
-| Operational administration | [`../../Organization/AGENTS.md`](../../Organization/AGENTS.md) |
 
-## Inheritance
+## Change boundary
 
-Each Cohesian body repository links to the version of Core it follows and
-states only the local consequences of those principles. Core keeps the exact
-canonical language; consumers do not maintain independent rewrites.
-
-Studio may explore identity variants. A variant becomes canonical only after it
-is intentionally accepted here. Cohesian-specific reusable rendering behavior
-belongs in `loci-plugins/cohesian`, while the identity specification remains in
-Core.
+Canonical language and accepted identity live here exactly. Proposed changes
+may arrive from anywhere, but they become shared Core material only through an
+intentional, versioned change in this repository.

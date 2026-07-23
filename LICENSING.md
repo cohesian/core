@@ -26,8 +26,8 @@ License](CONTENT_LICENSE.md). This includes:
 - `introduction.md`; and
 - public explanatory and editorial material stored here.
 
-Production-specific narration, audiovisual composition, and rendered media live
-in the Studio repository under its corresponding content license.
+Production-specific narration, audiovisual composition, and rendered media are
+governed by the repositories that create and publish them.
 
 ## Reserved organizational and brand material
 

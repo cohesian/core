@@ -23,13 +23,11 @@ structures without erasing the differences between fields.
 
 ## What Cohesian makes
 
-- **Foundations** — the knowledge repository: a connected graph of papers,
-  notes, notebooks, and source material.
-- **Studio** — images, videos, and visual explanations developed from Cohesian's
-  identity and source knowledge.
-- **Loci tooling** — open-source animation tools built on Manim for producing
-  educational animations and narrated scenes.
-- **cohesian.org** — the public projection of Cohesian's knowledge and media.
+- connected knowledge resources linking papers, notes, notebooks, and source
+  material;
+- images, videos, and visual explanations developed from source knowledge;
+- open-source tools for producing and exploring structural ideas; and
+- public interfaces that connect Cohesian's knowledge and media.
 
 ## Identity
 

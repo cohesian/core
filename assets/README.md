@@ -7,6 +7,5 @@
 - `brand/logotype/` contains official wordmark variants; and
 - `brand/icons/` contains distribution-sized icons.
 
-Publication compositions, animations, and experimental variants belong in
-Studio. A Studio experiment becomes canonical only through an intentional Core
-change.
+Publication compositions, animations, and experimental variants remain outside
+Core. A variant becomes canonical only through an intentional Core change.
