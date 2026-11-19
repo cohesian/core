@@ -41,7 +41,7 @@ between concrete examples and the structures connecting them.
 ## Links
 
 - Website: https://cohesian.org
-- GitHub: https://github.com/Cohesian
+- GitHub: https://github.com/cohesian
 - YouTube: https://www.youtube.com/@cohesianorg
 - Instagram: https://www.instagram.com/cohesian_org
 - Contact: hello@cohesian.org
