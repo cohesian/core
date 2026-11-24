@@ -24,3 +24,7 @@ consume it. Those relationships belong to an upper organizational view.
 Canonical language and accepted identity live here exactly. Proposed changes
 may arrive from anywhere, but they become shared Core material only through an
 intentional, versioned change in this repository.
+
+`principles.json` is a generated, versioned export of PRINCIPLES.md. Run
+`node scripts/check-principles.mjs --write` after accepting changes, then run
+the checker without flags. Preserve its meaning, identity and license scope.

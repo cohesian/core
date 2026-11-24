@@ -17,6 +17,20 @@ Current principles version: **0.1.0**.
 Core intentionally contains no ecosystem topology, operational state, consumer
 index, or consumer-specific procedure.
 
+## Structured principles export
+
+`principles.json` is a machine-readable export of PRINCIPLES.md, with its
+version, identity and sentence-case questions. The Markdown remains canonical.
+After accepting a principle change, regenerate and check the export:
+
+```sh
+node scripts/check-principles.mjs --write
+node scripts/check-principles.mjs
+```
+
+The exporter uses Node.js and no packages. The existing content/identity
+license boundaries also apply to this export.
+
 ## License
 
 License scopes and the Cohesian brand boundary are defined in

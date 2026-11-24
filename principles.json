@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "version": "0.1.0",
+  "identity": [
+    "Structural emergence from local compositional rules.",
+    "Where relations compose and structure unfolds across scales."
+  ],
+  "principles": [
+    {
+      "name": "Relations",
+      "question": "What connects, constrains, or distinguishes the parts?"
+    },
+    {
+      "name": "Composition",
+      "question": "How do local relations combine?"
+    },
+    {
+      "name": "Structure",
+      "question": "What patterns, behavior, or invariants emerge in the whole?"
+    },
+    {
+      "name": "Scale",
+      "question": "How can a whole become a component in a larger system?"
+    }
+  ]
+}
